@@ -1,5 +1,0 @@
-# ${NAME} - Sorbet file
-# Created on ${DATE}
-
-hello => world
-key1 => value1

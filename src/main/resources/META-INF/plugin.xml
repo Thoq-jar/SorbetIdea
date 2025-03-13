@@ -35,16 +35,5 @@
         <lang.syntaxHighlighterFactory
                 language="Sorbet"
                 implementationClass="dev.thoq.sorbetidea.ui.SorbetSyntaxHighlighterFactory"/>
-
-        <internalFileTemplate name="SorbetFile"/>
     </extensions>
-
-    <actions>
-        <action id="NewSorbetFile"
-                class="dev.thoq.sorbetidea.actions.NewSorbetFileAction"
-                text="Sorbet File"
-                description="Create a new Sorbet file">
-            <add-to-group group-id="NewGroup" anchor="before" relative-to-action="NewFile"/>
-        </action>
-    </actions>
 </idea-plugin>
