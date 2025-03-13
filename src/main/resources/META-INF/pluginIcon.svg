@@ -1,0 +1,18 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Upper horizontal line -->
+    <path d="M8 17H26" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+          stroke="url(#paint0_linear)"/>
+    <!-- Lower horizontal line -->
+    <path d="M8 23H26" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+          stroke="url(#paint0_linear)"/>
+    <!-- Greater-than symbol -->
+    <path d="M26 10L36 20L26 30" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+          stroke="url(#paint0_linear)"/>
+    <defs>
+        <linearGradient id="paint0_linear" x1="8" y1="20" x2="36" y2="20"
+                        gradientUnits="userSpaceOnUse">
+            <stop offset="0.1" stop-color="#9C27B0"/>
+            <stop offset="0.9" stop-color="#3F51B5"/>
+        </linearGradient>
+    </defs>
+</svg>
