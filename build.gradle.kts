@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "dev.thoq"
-version = "1.2"
+version = "1.1"
 
 repositories {
     mavenCentral()
